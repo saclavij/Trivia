@@ -2,6 +2,9 @@ package com.example.android.navigation
 
 import android.os.Bundle
 import android.view.*
+import android.view.Menu
+import android.view.MenuInflater
+import android.view.MenuItem
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.navigation.Navigation
